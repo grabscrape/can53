@@ -1,0 +1,6 @@
+
+options:  select.txt from http://nldb.ca/directory/directory.aspx
+
+perl fetch1.pl
+perl fetch2.pl
+
